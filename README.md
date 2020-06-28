@@ -1,5 +1,4 @@
 # Practice-01
-<!DOCTYPE html>
 <html> 
 <head>
   <title> Practice 01 </title> 
