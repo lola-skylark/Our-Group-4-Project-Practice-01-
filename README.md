@@ -1,8 +1,6 @@
 # Practice-01
+<!DOCTYPE html>
 <html> 
-<head>
-  <title> Practice 01 </title> 
- </head> 
  <body> 
   <header>
     <h1> Introduction To The Heat Powered Flashlight (FlashBack Model X) </h1>
