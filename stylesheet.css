@@ -11,7 +11,7 @@ body {
      font-family: Georgia;
 }
 h1 {
-    color: rgba(176, 0, 255, 1);
+    color: rgba(255, 255, 255, 1);
     background-color: rgba(0, 148, 255, 0.7);
     text-align: center; 
     border: 2px solid rgba(0, 0, 0, 1);
