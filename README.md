@@ -1,5 +1,7 @@
 # Practice 01
 <!DOCTYPE html>
 <html> 
- <link href = "index"> 
+ <head> 
+ <link href = "index" rel = "Home" type = "HTML"> 
+ </head> 
 </html> 
