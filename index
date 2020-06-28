@@ -3,11 +3,6 @@
 <head>
   <title> Practice 01 </title> 
   <link _config.yml> 
-  <style>
-    body {background-color: black;}
-    h1   {color: yellow;}
-    p    {color: white;}
-</style>
  </head> 
  <body> 
   <header>
