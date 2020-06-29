@@ -22,7 +22,7 @@ table, th, tr, td {
 }
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: 75%;
 }
 th,tr {
   height: 25px;
