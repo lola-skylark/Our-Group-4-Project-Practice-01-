@@ -3,7 +3,7 @@ h4 {
 }
 body { 
      font-family: Georgia;
-     background-image: url("image01.jpeg");
+     background-image: url(image01.jpeg);
 }
 h1 {
     color: rgba(255, 255, 255, 1);
