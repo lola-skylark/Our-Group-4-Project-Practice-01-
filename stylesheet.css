@@ -5,7 +5,7 @@ body {
      font-family: Georgia;
      background-image: url("Screenshot 2020-06-29 at 12.11.05 PM.png");
      background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
 }
 h1 {
     color: rgba(255, 255, 255, 1);
