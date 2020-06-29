@@ -32,7 +32,6 @@ table {
 th, tr {
   height: 25px;
   vertical-align: center;
-  padding: 35px;
 }
 th {
   background-color: rgba(255, 0, 0, 0.6);
