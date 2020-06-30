@@ -53,6 +53,9 @@ th {
 .column {
        column-count: 3;
 }
+.designcolumn {
+    column-count: 2;
+}
 td {
     color: rgba(255, 255, 255, 1);
 }
