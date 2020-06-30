@@ -1,6 +1,11 @@
 h4 {
     color: rgba(255, 142, 0, 0.9);
 }
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 body { 
      font-family: Georgia;
      background-image: url("image.jpg");
