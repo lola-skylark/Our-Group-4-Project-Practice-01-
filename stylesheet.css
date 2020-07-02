@@ -72,6 +72,13 @@ th {
 td {
     color: rgba(255, 255, 255, 1);
 }
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  margin: 5px 2px;
+}
 .fa-facebook {
   background: #3B5998;
   color: white;
