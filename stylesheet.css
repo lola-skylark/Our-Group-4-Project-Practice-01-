@@ -7,6 +7,9 @@ h4 {
   margin-right: auto;
     text-align: center;
 }
+.indexcolumn {
+    column-count: 3;
+}
 body { 
      font-family: Georgia;
      background-image: url("image.jpg");
