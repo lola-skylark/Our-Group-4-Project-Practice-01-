@@ -1,5 +1,5 @@
 h4 {
-    color: rgb(255, 165, 1);
+    color: yellow;
 }
 .image {
   display: block;
@@ -8,14 +8,13 @@ h4 {
     text-align: center;
 }
 h5 {
-    color: yellow;
+    color: orange;
     text-align: center;
 }
 .column {
   padding: 5px;
   width: 30%;
   height: 425px;
-  margin-top: 10px;
 }
 body { 
      font-family: Georgia;
@@ -25,8 +24,8 @@ body {
      background-size: cover;
 }
 h1 {
-    color: rgba(255, 255, 0, 1);
-    background-color: color: rgb(255, 165, 1);
+    color: orange;
+    background-color: white;
     text-align: center; 
     border: 2px solid rgba(0, 0, 0, 1);
 }
@@ -56,7 +55,6 @@ th {
   color: rgba(255, 255, 255, 1);
 }
 .row {
- padding: 5px;
   margin: 0;
   list-style: none;
 
