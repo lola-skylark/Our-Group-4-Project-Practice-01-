@@ -72,3 +72,15 @@ th {
 td {
     color: rgba(255, 255, 255, 1);
 }
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: pink;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
