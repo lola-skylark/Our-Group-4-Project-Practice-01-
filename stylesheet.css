@@ -56,7 +56,7 @@ th {
   color: rgba(255, 255, 255, 1);
 }
 .row {
- padding: 0;
+ padding: 5px;
   margin: 0;
   list-style: none;
 
