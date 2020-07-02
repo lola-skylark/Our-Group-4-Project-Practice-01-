@@ -7,8 +7,8 @@ body {
 }
 
 a {
-  padding: 25px;
-  font-size: 15px;
+  padding: 40px;
+  font-size: 25px;
   color: white;
 }
 
@@ -24,7 +24,7 @@ h1 {
     color: orange;
     background-color: white;
     text-align: center; 
-    border: 2px solid rgba(0, 0, 0, 1);
+    border: 3px solid rgba(0, 0, 0, 1);
 }
 
 h4 {
@@ -40,7 +40,7 @@ h5 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-    text-align: center;
+  text-align: center;
 }
 
 .row {
@@ -79,18 +79,13 @@ table {
   width: 100%;
 }
 
-table, th, tr {
+table, th, td, tr {
  border: 1px solid rgba(0, 0, 0, 1);
 }
 
-th, tr {
+th, tr, td {
   height: 25px;
   vertical-align: center;
-}
-
-th {
-  background-color: rgba(255, 142, 0, 0.4);
-  color: rgba(255, 255, 255, 1);
 }
 
 td {
